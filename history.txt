@@ -1,0 +1,264 @@
+    1  mkdir Git/Study
+    2  mkdir -p Git/Study
+    3  ls -al
+    4  git clone git@github.com:aleksandrabobyleva/ich.git
+    5  cd /d/JavaScpirt/Git/Study
+    6  git@github.com:alesandrabobyleva/ich.git
+    7  git clone git@github.com:alesandrabobyleva/ich.git
+    8  cd ~/.ssh
+    9  la -al
+   10  ls -al
+   11  cat id_rsa.pub
+   12  git config --global user.name aleksandrabobyleva
+   13  git config --global user.email alesandrabobyleva@gmail.com
+   14  git config --global -l
+   15  ssh-T git@github.com
+   16  ssh -T git@github.com
+   17  cd
+   18  ls -al
+   19  mkdir -p /Git/Study
+   20  mkdir -p /Study
+   21  git clone git@github.com:aleksandrabobyleva/ich.git
+   22  nano song.txt
+   23  mv /d/JavaScript/Git/Study /d/JavaScript/Git/Study/ich
+   24  mv /d/JavaScript/Git/Study/song.txt /d/JavaScript/Git/Study/ich/song.txt
+   25  cd /d/JavaScript/Git/Study/ich
+   26  ls -al
+   27  git commit -m "Add new file song.txt"
+   28  git add song.txt
+   29  git commit -m "Add new file song.txt"
+   30  git log
+   31  git push
+   32  mkdir -p /d/JavaScript/Git/Sudy/Home work/git_info
+   33  git clone git@github.com:aleksandrabobyleva/git_intro.git
+   34  git add image.png
+   35  git add image.jpg
+   36  cd git_info
+   37  ls -al
+   38  cd /git_info
+   39  cd git_info
+   40  mkdir -p /d/JavaScript/Git/Study/Home work/git_info
+   41  mkdir -p /d/JavaScript/Git/Study/Home work/git_info
+   42  mkdir -p /d/JavaScript/Git/Study/HomeWork/git_info
+   43  mkdir -p /d/JavaScript/Git/Study/Ich/HomeWork/git_info
+   44  cd /HomeWork
+   45  cd HomeWork
+   46  cd git_info/
+   47  add image.jpg
+   48  git add image.jpg
+   49  git commit
+   50  git commit 
+   51  git clone git@github.com:aleksandrabobyleva/git_intro.git
+   52  git commit -m "Add image"
+   53  ls -al
+   54  ls -al
+   55  git commit -m "Add new image"
+   56  git push
+   57  git clone git@github.com:aleksandrabobyleva/git_intro.git
+   58  cd /d/JavaScript/Git/Study/ich/HomeWork/git_info 
+   59  nano text.txt
+   60  git commit -m "Добавлен текст"
+   61  git push
+   62  cd /d/JavaScript/Git/Study
+   63  git clone git@github.com:aleksandrabobyleva/git_intro.git
+   64  cd git_info
+   65  cd git_intro
+   66  git add image.jpg
+   67  git commit -m "Add image"
+   68  git push
+   69  git clone ^[[200~git@github.com:aleksandrabobyleva/ich1.git~
+   70  git clone https://github.com/aleksandrabobyleva/ich1.git
+   71  git unit
+   72  echo "# test" >> README.md
+   73  git add 
+   74  git add README.md
+   75  git status
+   76  echo "# test" >> README.md
+   77  git status
+   78  git unit
+   79  add
+   80  git add
+   81  ls
+   82  git unit ich1
+   83  touch example.txt
+   84  chmod u+rwx example.txt 
+   85  chmod g+rwx example.txt 
+   86  chmod g-x example.txt 
+   87  mkdir test_directory
+   88  ll test_directory/
+   89  ll
+   90  ll | grep test
+   91  chmod g-rwx test_directory/
+   92  chmod o-rwx test_directory/
+   93  curl cheat.sh/find
+   94  #!/bin/bash
+   95  #
+   96  DATE=`date '+%d-%m-%y'`
+   97  #echo $DATE
+   98  for i in {1..5}; do date +'%H-%M-%S' > File-$i.txt; sleep 5; done
+   99  mkdir -p $DATE
+  100  cp File*.txt $DATE
+  101  #cd $DATE
+  102  for FILE in $DATE/*; do cat $FILE; done
+  103  touch script.sh
+  104  vim script.sh 
+  105  ./script.sh
+  106  chmod +x script.sh 
+  107  ./script.sh 
+  108  vim script.sh 
+  109  vim script.sh 
+  110  . /scr
+  111  . /sc
+  112  . /script.sh
+  113  -ls -la
+  114  ls -la
+  115  vim script.sh 
+  116  vim script.sh 
+  117  . /script.sh
+  118  touch script2.sh
+  119  vim script2.sh
+  120  nano script.sh
+  121  nano script.sh
+  122  nano script2.sh
+  123  св
+  124  cd
+  125  pwd
+  126  git clone https://github.com/aleksandrabobyleva/career.git
+  127  touch hello3.sh
+  128  git status
+  129  ls
+  130  cd career/
+  131  touch hello3.sh
+  132  git status
+  133  git all
+  134  curl http://18.192.103.67/
+  135  ssh i ich.pem ec2-user@18.192.103.67
+  136  ssh -i ich.pem ec2-user@18.192.103.67
+  137  ssh i ich.pem ec2-user@19.172.103.67
+  138  ssh ec2-user@18.192.103.67
+  139  sudo service httpd status
+  140  service httpd status
+  141  telnet 18.192.103.67 22
+  142  sudo service httpd start
+  143  ssh -i ich.pem@19.172.103.67
+  144  ssh -i path/to/ich.pem ec2-user@19.172.103.67
+  145  ssh -i path/to/ich.pem ec2-user@19.172.103.67
+  146  ssh -i /path/to/your/key.pem ec2-user@http://18.192.103.67/
+  147  ssh -i /path/to/your/key.pem ec2-user@18.192.103.67
+  148  ping http://18.192.103.67
+  149  ping 18.192.103.67
+  150  telnet 18.192.103.67 22
+  151  nc -zv 18.192.103.67 22
+  152  sudo service httpd start
+  153  touch test.txt
+  154  ls
+  155  touch script.sh
+  156  clean
+  157  reset
+  158  ls
+  159  vim script.sh
+  160  cd D:\Frontend\ICH\Git
+  161  cd /d/Frontend/ICH/Git
+  162  ды
+  163  ls
+  164  git init git-branch
+  165  cd git-branch
+  166  git checkout -b gitignore
+  167  touch .gitignore
+  168  nano.gitignore
+  169  nano .gitignore 
+  170  cat .gitignore 
+  171  git add --all
+  172  git add .gitignore 
+  173  git commit -m "Added file .gitignore"
+  174  git remote add origin https://github.com/aleksandrabobyleva/git-branch.git
+  175  git push -u origin gitignore
+  176  ssh ec2-user@linux.itcareerhub.de
+  177  touch .gitignore
+  178  vim .gitignore 
+  179  [200~git clone https://github.com/your-username/my-repo.git
+  180  git clone [200~$ git clone
+  181    git clone https://github.com/aleksandrabobyleva/git_hw12.git
+  182  cd git_hw12/
+  183  git checkout -b feature
+  184  [200~echo "This is the README file" > README.md
+  185  echo "This is the README file" > README.md
+  186  echo "*.tmp" >> .gitignore
+  187  cat README.md 
+  188  git add README.md .gitignore 
+  189  git commit -m "Initial commit on feature branch"
+  190  git push origin feature
+  191  git commit --amend -m "Initial commit on feature branch ammend"
+  192  git push origin feature --force
+  193  git checkout main
+  194  git merge feature
+  195  git push origin main
+  196  git push origin main
+  197  git branch
+  198  git checkout -b main
+  199  git branch --unset-upstream
+  200  git branch
+  201  git add --all
+  202  git commit -m "Added branch-main"
+  203  git push
+  204  git push --set-upstream origin main
+  205  git merge feature
+  206  git push origin master
+  207  git push origin main
+  208  git branch
+  209  git branch -r
+  210  git push origin main
+  211  git graph
+  212  git checkout main
+  213  git merge feature
+  214  git log --oneline --graph --decorate
+  215  mkdir git_hw12
+  216  [200~
+  217  cd git
+  218  cd git_hw12
+  219  git clone https://github.com/aleksandrabobyleva/git_hw12.git
+  220  gir branch
+  221  cd git_hw12/
+  222  branch
+  223  [200~git checkout -b feature
+  224  git checkout -b feature
+  225  branch
+  226  git branch
+  227  chekout main
+  228  git checkout main
+  229  cd /d/Frontend/ICH/Git
+  230  git clone https://github.com/aleksandrabobyleva/git_hw12.git
+  231  echo "# git_hw12" >> README.md
+  232  git init
+  233  git branch -M main
+  234  echo "*.log *.tmp" >> .gitignore
+  235  git add --all
+  236  git rm --cached git-branch
+  237  git submodule add https://github.com/aleksandrabobyleva/git_hw12.git git-branch
+  238  git clone https://github.com/aleksandrabobyleva/git_hw12.git
+  239  cd /d/Frontend/ICH/Git/git_hw12
+  240  git clone https://github.com/aleksandrabobyleva/git_hw12.git
+  241  cd git_hw12
+  242  vim .gitignore
+  243  vim README.md
+  244  ls
+  245  ls-la
+  246  ls -ls
+  247  ls -la
+  248  git add --all
+  249  git init
+  250  git add --all
+  251  git commit -m "Added README and .gitignore"
+  252  git remote add origin https://github.com/aleksandrabobyleva/git_hw12.git
+  253  git push -u origin main
+  254  git checkout -b feature
+  255  vim README.md 
+  256  vim .gitignore 
+  257  git add --all
+  258  git commit -m "Изменения в README.md и .gitignore"
+  259  git push origin feature
+  260  git commit --amend -m "Изменения в README.md и .gitignore (amend)"
+  261  git push --force origin feature
+  262  git checkout main
+  263  git merge feature
+  264  history > history.txt
